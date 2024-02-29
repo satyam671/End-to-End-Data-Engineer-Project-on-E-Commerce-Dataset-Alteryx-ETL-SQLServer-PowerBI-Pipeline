@@ -83,11 +83,6 @@ Main KPIs:
 Location KPIs:
 ![Location KPIs](5.%20Final%20Insights/Location_KPIs.png)
 
-## Project Presentation
-
-https://www.canva.com/design/DAF4b_QR4-0/cxoS4bgAY-N73LIUHhu6zw/edit?utm_content=DAF4b_QR4-0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
-
 
 ### Conclusion:
 
